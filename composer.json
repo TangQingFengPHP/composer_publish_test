@@ -1,0 +1,15 @@
+{
+  "name": "tangqingfengphp/composer_publish_test",
+  "description": "composer publish test project",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "panfeng",
+      "email": "TangQingFengCode@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4"
+  }
+}
